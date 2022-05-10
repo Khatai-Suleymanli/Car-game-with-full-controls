@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
     private float horizontalInput;
     private float forwardInput;
 
-    //camera deyismek ucun
+    //code lines for changing the camera view. Just create a second camera and add it to the vehicle
     public Camera mainCamera;
     public Camera hoodCamera;
     public KeyCode switchKey;
