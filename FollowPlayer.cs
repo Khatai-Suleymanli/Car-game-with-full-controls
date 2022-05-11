@@ -18,7 +18,7 @@ public class FollowPlayer : MonoBehaviour
     void LateUpdate()
     {
         // makes camera follow the player object
-        transform.position = player.transform.position + offset;
+        transform.position = player.transform.position + offset; //Position equals to current position + how far camera is from the object
 
         // position shows coordinates
         // new Vector 3 yaradib buna kameranin koordinatlarini vererek kameraninin yerini ayarlayiriq
