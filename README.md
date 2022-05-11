@@ -7,5 +7,6 @@ For getting started with developing this game you need to install any asset kit 
 #Create a car and add PlayerController script into it
 
 #Create an oppenent car or cars and add "Car1" script into it
+#After creating game objects, remember to add the actualt object to its owner on unity editor
 
 
