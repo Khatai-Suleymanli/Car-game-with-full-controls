@@ -21,6 +21,6 @@ public class FollowPlayer : MonoBehaviour
         transform.position = player.transform.position + offset; //Position equals to current position + how far camera is from the object
 
         // position shows coordinates
-        // new Vector 3 yaradib buna kameranin koordinatlarini vererek kameraninin yerini ayarlayiriq
+        // create new vector3 and give it coordinates
     }
 }
