@@ -6,7 +6,7 @@ public class FollowPlayer : MonoBehaviour
 {
     // game object reference edir player adli obyekte, playeri de mueyyen etmek ucun unityde vehicle-ni atiriq icine
     public GameObject player;
-    private Vector3 offset = new Vector3(0, 5, -7);
+    private Vector3 offset = new Vector3(0, 5, -7); //coordinates of the object(x,y,z)
 
     // Start is called before the first frame update
     void Start()
